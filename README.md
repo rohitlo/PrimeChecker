@@ -1,0 +1,2 @@
+# PrimeChecker
+Prime numbers checker 
